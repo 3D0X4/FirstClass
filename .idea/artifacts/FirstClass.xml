@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FirstClass">
+    <output-path>$PROJECT_DIR$/out/artifacts/FirstClass</output-path>
+    <root id="archive" name="FirstClass.jar">
+      <element id="module-output" name="FirstClass" />
+    </root>
+  </artifact>
+</component>
